@@ -1,0 +1,15 @@
+---
+baseurl: "http://niloc.io/"
+languageCode: "en-us"
+title: "Musings of a Developer"
+theme: "hugo-zen"
+metaDataFormat: "yaml"
+# watch: true
+# buildDrafts: true
+params:
+  logo: "/img/headshot.jpg"
+  copyright: "Colin Hoernig.  Share information freely."
+  twitter: "https://twitter.com/colinhoernig"
+  github: "https://github.com/colinhoernig"
+  email: "me@niloc.io"
+  linkedin: "https://linkedin.com/in/colinhoernig"

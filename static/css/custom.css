@@ -1,0 +1,152 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: "Roboto", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #494949;
+  background-color: #FCFCFC;
+  font-size: 18px;
+}
+
+h1 { font-size: 2.1rem; }
+h2 { font-size: 1.9rem; }
+h3 { font-size: 1.7rem; }
+h4,
+h5,
+h6 { font-size: 1.5rem; }
+
+a {
+  color: #586F7C;
+  padding: 5px;
+  background-color: #F4F4F9;
+  transition: background-color 100ms, color 100ms;
+}
+
+  a:hover {
+    color: #F4F4F9;
+    background-color: #586F7C;
+  }
+
+img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+  border: 0;
+}
+
+header,
+footer {
+  margin: 4rem 0;
+  text-align: center;
+}
+
+main {
+  margin: 4rem 0;
+}
+
+main article section ul {
+  list-style: disc outside none;
+  margin-left: 2em;
+}
+main article section ul li {
+  padding-left: .5em;
+}
+
+.container {
+  width: 90%;
+  max-width: 700px;
+}
+
+.header-logo a {
+  display: block;
+  background-color: transparent;
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.header-logo img {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  border: 5px solid #586F7C;
+}
+
+.header-logo img:hover {
+  border-color: #F4F4F9;
+}
+
+.site-title {
+  margin-top: 2rem;
+  color: #586F7C;
+  letter-spacing: .5px;
+  text-transform: uppercase;
+}
+
+/** Navigation **/
+nav[role=main] ul {
+  text-align: center;
+  list-style-type: none;
+}
+
+nav[role=main] ul li {
+  display: inline-block;
+}
+
+nav[role=main] a {
+  text-decoration: none;
+}
+
+.entry-title {
+  margin-bottom: 0;
+  font-size: 2.5rem;
+  color: #586F7C;
+}
+
+.entry-title a {
+  text-decoration: none;
+  background-color: transparent;
+  padding: 0;
+}
+
+  .entry-title a:hover {
+    color: #494949;
+  }
+
+.entry-meta {
+  display: inline-block;
+  margin-bottom: 2rem;
+  font-size: 1.7rem;
+  color: #9B9B9B;
+}
+
+.footer-link {
+  margin: 2rem 0 1rem;
+}
+  .footer-link a {
+    text-decoration: none;
+    padding: 5px 10px;
+    margin: 5px;
+  }
+
+.copyright {
+  font-size: 1.5rem;
+  color: #9B9B9B;
+}
+
+.hr {
+  height: 3px;
+  margin: 4rem 0;
+  background: #F4F4F9;
+  width: 50%;
+  transform: translateX(50%);
+/*  background: -webkit-gradient(linear, left top, right top, from(white), color-stop(#E1E1E1), to(white));
+  background: -webkit-linear-gradient(left, white, #E1E1E1, white);
+  background: linear-gradient(to right, white, #E1E1E1, white);*/
+}
