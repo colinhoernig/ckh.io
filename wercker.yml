@@ -3,3 +3,11 @@ build:
     steps:
         - arjen/hugo-build:
             version: "0.15"
+deploy:
+    steps:
+        - install-packages:
+            packages: git ssh-client
+        - lukevivier/gh-pages@0.2.1:
+            token: $GIT_TOKEN
+            domain: niloc.io
+            basedir: public
