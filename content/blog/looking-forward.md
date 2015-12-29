@@ -1,12 +1,12 @@
 ---
 date: 2015-12-27T22:20:44-06:00
-draft: false
 title: Looking Forward
+tags: ["welcome"]
 ---
 
 You may consider this page a scratchpad for thoughts and ideas.  Just as well,
-it acts as a platform for sharing knowledge on a variety of subjects in the realm
-of technology.
+it acts as a platform for sharing stories, information, and knowledge on a variety of
+subjects in the realm of technology, photography, outdoor lifestyle, and much more.
 
 It is the nearing the New Year, and I am _looking forward_ to see what 2016 holds.
 2015 has been an incredible year.  Notably:
@@ -30,9 +30,11 @@ Throughout 2015, I have spent a considerable amount of time working with some
 very cool technologies including [nodejs](https://nodejs.org/en/),
 [React](https://facebook.github.io/react/), and [EmberJS](http://emberjs.com/)
 among others.  The Deal Board mentioned above was built using Ember as the
-front-end, with a REST API built on [Laravel](https://laravel.com/).  The
-JavaScript ecosystem changes extremely rapidly, but I feel confident that the
-future of JavaScript is **very promising**.
+front-end, with a REST API built on [Laravel](https://laravel.com/).  React has
+certainly become my go-to JavaScript library for building reactive front-end
+applications.  The JavaScript ecosystem changes extremely rapidly, but I feel
+confident that the future of JavaScript is **very promising**.
 
 In the future, I'll write more about web technology, including how this blog was
-built.
+built.  As an avid traveler and photographer, I plan to share photos and stories of
+my adventures.  Cheers.
