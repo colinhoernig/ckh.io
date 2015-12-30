@@ -2,7 +2,7 @@
 baseurl: "http://niloc.io/"
 languageCode: "en-us"
 title: "Musings of a Developer"
-theme: "hugo-zen"
+# theme: "hyde-x"
 metaDataFormat: "yaml"
 author:
   name: "Colin Hoernig"

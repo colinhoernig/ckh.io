@@ -1,13 +1,13 @@
 ---
 date: "2015-12-27T22:20:51-06:00"
 draft: false
-title: "who am i?"
-url: "about"
+title: "Who am I?"
+url: "who-am-i"
 menu:
   main:
-    Name: "Who Am I?"
-    Identifier: "about"
-    URL: "/about/"
+    Name: "Who am I?"
+    Identifier: "who-am-i"
+    URL: "/who-am-i/"
 
 ---
 
