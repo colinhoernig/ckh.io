@@ -4,10 +4,10 @@ languageCode: "en-us"
 title: "Musings of a Developer"
 theme: "hugo-zen"
 metaDataFormat: "yaml"
-# watch: true
-# buildDrafts: true
+author:
+  name: "Colin Hoernig"
 params:
-  logo: "/img/headshot.jpg"
+  gravatarHash: "15cb4683f9aa1f015998d230b61b0ef7"
   copyright: "Colin Hoernig.  Share information freely."
   twitter: "https://twitter.com/colinhoernig"
   github: "https://github.com/colinhoernig"

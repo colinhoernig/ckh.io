@@ -1,11 +1,11 @@
 ---
 date: "2015-12-27T22:20:51-06:00"
 draft: false
-title: "Who Am I?"
+title: "who am i?"
 url: "about"
 menu:
   main:
-    Name: "about"
+    Name: "Who Am I?"
     Identifier: "about"
     URL: "/about/"
 
