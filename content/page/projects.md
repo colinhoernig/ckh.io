@@ -1,6 +1,5 @@
 ---
 date: 2016-01-01T02:28:47-06:00
-draft: true
 menu:
   main:
     Identifier: projects
