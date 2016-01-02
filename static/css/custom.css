@@ -86,3 +86,12 @@ nav .sidebar-nav {
 .project-365-item {
   margin: 1.5rem 0 2rem 0;
 }
+.project-365-item img {
+  margin-bottom: .5rem;
+  border-radius: 0;
+  border: 1px solid #9B9B9B;
+}
+.project-365-item p em {
+  letter-spacing: 1px;
+  font-weight: bold;
+}
