@@ -1,0 +1,88 @@
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Mate", sans-serif;
+  font-weight: 700;
+}
+
+.post img {
+  margin: 0;
+}
+
+a.read-more {
+  display: inline-block;
+  margin-top: .5rem;
+}
+
+.sidebar-nav {
+  padding: 0;
+}
+nav .sidebar-nav {
+  margin: 2rem 0;
+}
+
+.sidebar {
+  text-align: center;
+}
+
+.sidebar-about h1 {
+  font-size: 1.75rem;
+  margin-bottom: 0;
+  color: #F4F4F9;
+}
+
+.sidebar-nav .social-icons {
+  padding-left: 0;
+  list-style: none;
+  margin-bottom: 1rem;
+}
+  .sidebar-nav .social-icon i:first-child {
+    color: #9B9B9B;
+  }
+  .sidebar-nav .social-icon i:hover {
+    color: #494949;
+  }
+
+.sidebar .copyright {
+  font-size: 14px;
+}
+
+.sidebar-about img {
+  margin: 0 auto 0.5rem auto;
+  width: 150px;
+  height: 150px;
+  border-radius: 15
+  %;
+}
+@media (min-width: 48em) {
+  .sidebar-about img {
+    margin-bottom: .75rem;
+    width: 175px;
+    height: 175px;
+  }
+}
+@media (min-width: 58em) {
+  .sidebar-about img {
+    margin-bottom: 1rem;
+    width: 200px;
+    height: 200px;
+  }
+}
+
+/** PROJECTS SPECIFIC CSS **/
+.projects h2 {
+  color: #586F7C;
+}
+.projects > ul {
+  margin-top: .5rem;
+  padding: 0;
+  list-style-type: none;
+}
+.projects > ul li {
+  margin-bottom: 1rem;
+  padding: 0;
+  line-height: 1.75rem;
+}
+
+/** PROJECT-365 SPECFIC CSS **/
+.project-365-item {
+  margin: 1.5rem 0 2rem 0;
+}

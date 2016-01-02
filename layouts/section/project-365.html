@@ -1,0 +1,12 @@
+{{ partial "head.html" . }}
+<div class="content container">
+  <h1 class="page-title">Project ThreeSixFive</h1>
+  <p>A photo every day for one year</p>
+  {{ range .Data.Pages }}
+  <div class="post project-365-item">
+    <img src="/images/projects/project-365/{{ .Params.photourl }}" alt="{{ .Title }}" />
+    <span class="project-365-caption">{{ .Params.photocaption }}</span>
+  </div>
+  {{ end }}
+</div>
+{{ partial "foot.html" . }}

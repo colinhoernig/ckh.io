@@ -4,11 +4,16 @@ languageCode: "en-us"
 title: "Musings of a Developer"
 # theme: "hyde-x"
 metaDataFormat: "yaml"
+taxonomies:
+  category: "categories"
 author:
   name: "Colin Hoernig"
 params:
+  tagline: "Musings of a Developer"
+  googleAnalytics: "UA-60318539-2"
   gravatarHash: "15cb4683f9aa1f015998d230b61b0ef7"
-  copyright: "Colin Hoernig.  Share information freely."
+
+  copyright: "Colin Hoernig. <br />Share information freely."
   twitter: "https://twitter.com/colinhoernig"
   github: "https://github.com/colinhoernig"
   email: "me@niloc.io"

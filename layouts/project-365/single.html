@@ -2,7 +2,8 @@
 <div class="content container">
   <div class="post">
     <h1 class="post-title">{{ .Title }}</h1>
-    {{ .Content }}
+    <img src="/images/projects/project-365/{{ .Params.photourl }}" alt="Photo {{ .Title }}" />
+    {{ .Params.photocaption }}
   </div>
 </div>
 {{ partial "foot.html" . }}
