@@ -10,17 +10,17 @@
   <title>{{ .Title }} &middot; {{ .Site.Author.name }}  &middot; {{ .Site.Params.tagline }}</title>
 
   <!-- CSS -->
-  <link rel="stylesheet" href="{{ "/css/poole.css" | absURL }}">
-  <link rel="stylesheet" href="{{ "/css/hyde.css" | absURL }}">
-  <link rel="stylesheet" href="{{ "/css/custom.css" | absURL }}">
-  {{ if isset .Site.Params "highlight" }}<link rel="stylesheet" href="{{ "/css/highlight/" | absURL }}{{ .Site.Params.highlight }}.css">{{ end }}
+  <link rel="stylesheet" href="{{ "/css/poole.css" }}">
+  <link rel="stylesheet" href="{{ "/css/hyde.css" }}">
+  <link rel="stylesheet" href="{{ "/css/custom.css" }}">
+  {{ if isset .Site.Params "highlight" }}<link rel="stylesheet" href="{{ "/css/highlight/" }}{{ .Site.Params.highlight }}.css">{{ end }}
   <link href='https://fonts.googleapis.com/css?family=Mate:400,400italic' rel='stylesheet' type='text/css'>
   <link href='https://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
   <!-- Icons -->
-  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ "/touch-icon-144-precomposed.png" | absURL }}">
-  <link href="{{ "/favicon.png" | absURL }}" rel="icon">
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ "/touch-icon-144-precomposed.png" }}">
+  <link href="{{ "/favicon.png" }}" rel="icon">
 
   <!-- RSS -->
   {{ $siteTitle := .Site.Title }}

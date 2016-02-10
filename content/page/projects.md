@@ -1,12 +1,13 @@
 ---
 date: 2016-01-01T02:28:47-06:00
-menu:
-  main:
-    Identifier: projects
-    Name: Projects
-    URL: /projects/
+#menu:
+  #main:
+    #Identifier: projects
+    #Name: Projects
+    #URL: /projects/
 title: Projects
 url: projects
+draft: true
 ---
 
 ## 2016
