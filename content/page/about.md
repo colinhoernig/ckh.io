@@ -1,7 +1,7 @@
 ---
 date: "2015-12-27T22:20:51-06:00"
-title: "Who am I?"
-url: "who-am-i"
+title: "About"
+url: "about"
 menu:
   main:
     Name: "About"
