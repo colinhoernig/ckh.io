@@ -4,9 +4,9 @@ title: "Who am I?"
 url: "who-am-i"
 menu:
   main:
-    Name: "Who am I?"
-    Identifier: "who-am-i"
-    URL: "/who-am-i/"
+    Name: "About"
+    Identifier: "about"
+    URL: "/about/"
 
 ---
 
