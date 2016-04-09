@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Musings of a Developer</title>
+    <link>http://niloc.io/page/</link>
+    <description>Recent content in Pages on Musings of a Developer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Dec 2015 22:20:51 -0600</lastBuildDate>
+    <atom:link href="http://niloc.io/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>http://niloc.io/about</link>
+      <pubDate>Sun, 27 Dec 2015 22:20:51 -0600</pubDate>
+      
+      <guid>http://niloc.io/about</guid>
+      <description>&lt;p&gt;I am a full-stack software engineer working in the startup space in the beautiful city of Chicago, IL.&lt;/p&gt;
+
+&lt;p&gt;For the past two years I have been working with a great music-based startup known as Music Dealers, where we&amp;rsquo;ve built a platform that provides independent artists with a new revenue stream by giving them a stage to share their music with the world.  In 2015 we celebrated $15 million being paid out to our incredible artist community.&lt;/p&gt;
+
+&lt;p&gt;I am the founder of CKH Development, a web consulting and development company.  We solve real-world problems by building products that give clients a competitive advantage through a variety of channels.  We focus on building efficient, scalable, and reliable web and mobile applications using the tools and technology that best fit the job at hand. If you&amp;rsquo;re looking to build a beautiful product quickly, please &lt;a href=&#34;mailto:me@niloc.io&#34;&gt;get in touch&lt;/a&gt;.  We&amp;rsquo;d love to hear from you.&lt;/p&gt;
+
+&lt;p&gt;When I&amp;rsquo;m not &amp;ldquo;working,&amp;rdquo; I&amp;rsquo;m usually hacking on personal projects or contributing to the open source software community.&lt;/p&gt;
+
+&lt;p&gt;Other tid-bits:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;B.S. Computer Science from Purdue University&lt;/li&gt;
+&lt;li&gt;I love everything tech &amp;mdash; hardware, software, and everything in-between&lt;/li&gt;
+&lt;li&gt;I hate stagnation, and am a big proponent of continuous education&lt;/li&gt;
+&lt;li&gt;Open source is the future; embrace it with open arms&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

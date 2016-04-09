@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Musings of a Developer</title>
+    <link>http://niloc.io/blog/</link>
+    <description>Recent content in Blogs on Musings of a Developer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Apr 2016 19:29:41 -0500</lastBuildDate>
+    <atom:link href="http://niloc.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>RE: Banning Effective Encryption - An Anti-Security Bill</title>
+      <link>http://niloc.io/blog/re-banning-effective-encryption/</link>
+      <pubDate>Fri, 08 Apr 2016 19:29:41 -0500</pubDate>
+      
+      <guid>http://niloc.io/blog/re-banning-effective-encryption/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This was originally posted from my Facebook note &lt;a href=&#34;https://www.facebook.com/notes/colin-hoernig/re-banning-effective-encryption-an-anti-security-bill/10154092762866552&#34;&gt;here&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Let me get off the topic of Bernie vs. Clinton for a moment in order to discuss something that has a very serious impact on all of us.
+US Senator Dianne Feinstein and US Senator Richard Burr &lt;em&gt;NEED&lt;/em&gt; to get out of Congress.  Feinstein-Burr are &lt;em&gt;co-sponsors&lt;/em&gt; on bill that &lt;em&gt;SEEKS TO BAN&lt;/em&gt; effective encryption.  Here&amp;rsquo;s an analogy by &lt;a href=&#34;https://www.reddit.com/user/drawkbox&#34;&gt;/u/drawkbox&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;World class security system, yet plenty of keys under rocks in the backyard&amp;hellip;.Going without encryption is another level of trust, like leaving your window open on vacation and putting a note that says, only Sally the neighbor can come in through the window, please (Sally being the gov&amp;rsquo;t). Guess what, Sally won&amp;rsquo;t be the only one coming in.&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Feinstein and Burr have been sponsors/supporters of &lt;em&gt;SOPA&lt;/em&gt;, &lt;em&gt;PIPA&lt;/em&gt;, and &lt;em&gt;CISA&lt;/em&gt; bills, all of which were/are highly detrimental to the right to privacy.&lt;/p&gt;
+
+&lt;p&gt;Feinstein is 82 years old, and Burr is 60.  We, the Gen X&amp;rsquo;ers and Millenials, CANNOT let baby boomers continue to hold positions within Congress, as these are people that have ZERO understanding of technology and ZERO understanding of the MOST SERIOUS implications of banning effective encryption.  Those that have no understanding of the importance of encryption just think &amp;ldquo;Oh! They&amp;rsquo;re using it to protect us from terrorists.&amp;rdquo; or &amp;ldquo;I have nothing to hide, therefore I don&amp;rsquo;t need encryption.&amp;rdquo;  &lt;em&gt;&lt;em&gt;The idiotic support of such bills is contagious.&lt;/em&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;REMEMBER THIS:&lt;/em&gt; In November 2016, &lt;em&gt;88%&lt;/em&gt; of Congressional seats are &lt;em&gt;up for re-election&lt;/em&gt;.  We NEED to elect members that &lt;em&gt;UNDERSTAND&lt;/em&gt; the need for encryption and will fight for the rights of the people.&lt;/p&gt;
+
+&lt;p&gt;For a draft and more information on the Anti-Security bill, visit: &lt;a href=&#34;https://rietta.com/blog/2016/04/08/feinstein-burr-encryption-bill/&#34;&gt;https://rietta.com/blog/2016/04/08/feinstein-burr-encryption-bill/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Launching the Music Dealers Tech Blog</title>
+      <link>http://niloc.io/blog/music-dealers-tech-blog/</link>
+      <pubDate>Tue, 22 Mar 2016 23:03:38 -0500</pubDate>
+      
+      <guid>http://niloc.io/blog/music-dealers-tech-blog/</guid>
+      <description>
+
+&lt;p&gt;It&amp;rsquo;s 2016&amp;hellip;what tech company doesn&amp;rsquo;t have a blog?  Recently, we (the MD Tech Team)
+launched our technology blog.  Most recently, I&amp;rsquo;ve written a lengthy blog post
+entitled &lt;a href=&#34;http://mdlrs.io/post/building-a-dynamic-embeddable-audio-player/&#34;&gt;&amp;ldquo;Building a Dynamic Embeddable Audio Player With AWS API Gateway, Mustache, and Audio5js&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&#34;check-it-out-at-mdlrs-io-http-mdlrs-io:cb8abb1238c58535c011d8b55d9c45c8&#34;&gt;Check it out at &lt;a href=&#34;http://mdlrs.io/&#34;&gt;mdlrs.io&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;Excuse the crosspost, but I figured any readers of my blog may enjoy the content we
+share on the Music Dealers Tech Blog.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Looking Forward</title>
+      <link>http://niloc.io/blog/looking-forward/</link>
+      <pubDate>Sun, 27 Dec 2015 22:20:44 -0600</pubDate>
+      
+      <guid>http://niloc.io/blog/looking-forward/</guid>
+      <description>&lt;p&gt;You may consider this page a scratchpad for thoughts and ideas.  Just as well,
+it acts as a platform for sharing stories, information, and knowledge on a variety of
+subjects in the realm of technology, photography, outdoor lifestyle, and much more.&lt;/p&gt;
+
+&lt;p&gt;It is the nearing the New Year, and I am &lt;em&gt;looking forward&lt;/em&gt; to see what 2016 holds.
+2015 has been an incredible year.  Notably:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I married my best friend, Alexa. &amp;mdash; &lt;em&gt;September 2015&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;I spontaneously hopped on an airplane and stormchased the largest front that
+the Pacific Northwest has seen in years.  Snorkel deep powder conditions in Whistler,
+B.C. were all time. &amp;mdash; &lt;em&gt;December 2015&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;2015 was also a great year for &lt;a href=&#34;http://musicdealers.com&#34;&gt;Music Dealers&lt;/a&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;celebrated $15 million paid out to independent artists, which helped change
+the lives of many musicians.  Looking back, it is a wonderful feeling to be a
+part of something that has had such an impact within the music industry. &amp;mdash; &lt;em&gt;January 2015&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;the &lt;a href=&#34;http://dealboard.musicdealers.com&#34;&gt;Deal Board&lt;/a&gt; was rebuilt from scratch
+and launched, receiving 900+ artist submissions in the first week. &amp;mdash; &lt;em&gt;August 2015&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;a brand new &lt;a href=&#34;http://musicdealers.com/#!/curated-playlists&#34;&gt;Curated Playlists&lt;/a&gt;
+page was launched&amp;hellip;a fun collab between Marketing &amp;amp; Technology &amp;mdash; &lt;em&gt;December 2015&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Throughout 2015, I have spent a considerable amount of time working with some
+very cool technologies including &lt;a href=&#34;https://nodejs.org/en/&#34;&gt;nodejs&lt;/a&gt;,
+&lt;a href=&#34;https://facebook.github.io/react/&#34;&gt;React&lt;/a&gt;, and &lt;a href=&#34;http://emberjs.com/&#34;&gt;EmberJS&lt;/a&gt;
+among others.  The Deal Board mentioned above was built using Ember as the
+front-end, with a REST API built on &lt;a href=&#34;https://laravel.com/&#34;&gt;Laravel&lt;/a&gt;.  React has
+certainly become my go-to JavaScript library for building reactive front-end
+applications.  The JavaScript ecosystem changes extremely rapidly, but I feel
+confident that the future of JavaScript is &lt;strong&gt;very promising&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;In the future, I&amp;rsquo;ll write more about web technology, including how this blog was
+built.  As an avid traveler and photographer, I plan to share photos and stories of
+my adventures.  Cheers.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

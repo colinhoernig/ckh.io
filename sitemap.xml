@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://niloc.io/</loc>
+    <lastmod>2016-04-08T19:29:41-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://niloc.io/blog/re-banning-effective-encryption/</loc>
+    <lastmod>2016-04-08T19:29:41-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://niloc.io/blog/music-dealers-tech-blog/</loc>
+    <lastmod>2016-03-22T23:03:38-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://niloc.io/project-365/1/</loc>
+    <lastmod>2016-01-01T02:55:48-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://niloc.io/about</loc>
+    <lastmod>2015-12-27T22:20:51-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://niloc.io/blog/looking-forward/</loc>
+    <lastmod>2015-12-27T22:20:44-06:00</lastmod>
+  </url>
+  
+</urlset>
