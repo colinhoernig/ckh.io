@@ -7,7 +7,8 @@ deploy:
     steps:
         - install-packages:
             packages: git ssh-client
-        - lukevivier/gh-pages@0.2.1:
-            token: $GIT_TOKEN
-            domain: niloc.io
+        - git-push:
+            gh_oauth: $GIT_TOKEN
+            gh_pages: true
+            gh_pages_domain: niloc.io
             basedir: public
